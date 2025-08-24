@@ -1,3 +1,4 @@
+package com.tapacademy.Examples;
 import java.util.Scanner;
 
 public class main{
