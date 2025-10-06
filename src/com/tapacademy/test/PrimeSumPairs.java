@@ -44,7 +44,7 @@ public class PrimeSumPairs {
         }
     }
 
-    // Main method
+    // LinkedList method
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         

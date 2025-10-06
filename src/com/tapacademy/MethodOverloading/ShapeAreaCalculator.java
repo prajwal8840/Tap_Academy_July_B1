@@ -23,7 +23,7 @@ public class ShapeAreaCalculator {
      return 0.5 * base * height;
  }
 
- // Main method
+ // LinkedList method
  public static void main(String[] args) {
      ShapeAreaCalculator calculator = new ShapeAreaCalculator();
 
