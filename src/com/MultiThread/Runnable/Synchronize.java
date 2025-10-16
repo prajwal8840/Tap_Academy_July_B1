@@ -70,7 +70,7 @@ class Others extends Thread
 
 
 
-public class Day47 {
+public class Synchronize {
 
 	public static void main(String[] args) {
 		BathRoom ba = new BathRoom();
